@@ -1,0 +1,27 @@
+PODS:
+  - FLEX (5.22.10)
+  - SQLCipher (4.6.1):
+    - SQLCipher/standard (= 4.6.1)
+  - SQLCipher/common (4.6.1)
+  - SQLCipher/standard (4.6.1):
+    - SQLCipher/common
+
+DEPENDENCIES:
+  - FLEX (from `../../`)
+  - SQLCipher
+
+SPEC REPOS:
+  trunk:
+    - SQLCipher
+
+EXTERNAL SOURCES:
+  FLEX:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  FLEX: fdd1d7ec6489febe56d4f45588b3760ad6e7b944
+  SQLCipher: 77fbe633cd84db04b07876dd50766b4924b57d61
+
+PODFILE CHECKSUM: 7fe32d9c5db62dcbeef904026ba9a44fa090e387
+
+COCOAPODS: 1.15.2

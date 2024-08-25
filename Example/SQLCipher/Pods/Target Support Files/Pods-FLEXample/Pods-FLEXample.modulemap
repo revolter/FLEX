@@ -1,0 +1,6 @@
+framework module Pods_FLEXample {
+  umbrella header "Pods-FLEXample-umbrella.h"
+
+  export *
+  module * { export * }
+}
