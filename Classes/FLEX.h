@@ -13,7 +13,6 @@
 
 #import "FLEXExplorerToolbar.h"
 #import "FLEXExplorerToolbarItem.h"
-#import "FLEXFileBrowserController.h"
 #import "FLEXGlobalsEntry.h"
 
 #import "FLEX-Core.h"
